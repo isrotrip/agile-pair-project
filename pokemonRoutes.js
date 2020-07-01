@@ -1,1 +1,1 @@
-const terganteng = 'ichlas'
+const terganteng = [ 'ichlas', 'timothy' ]
